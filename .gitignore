@@ -1,0 +1,19 @@
+# ModelSim/QuestaSim simulation files
+*.wlf
+*.vstf
+sim/work/
+sim/_temp/
+*.cr.mti
+*.mpf
+
+# Backup files
+*.bak
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Log files
+*.log
+transcript
