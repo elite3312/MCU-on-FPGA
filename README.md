@@ -15,6 +15,9 @@ This project contains a complete CPU implementation with the following features:
 - Two output ports with seven-segment display drivers
 - PIC-like instruction set including MOVLW, MOVWF, ADDWF, GOTO, etc.
 
+Here is a image of the CPU architecture:  
+![alt text](image.png)
+
 ## Architecture
 
 ### CPU Core (`cpu.v`)
